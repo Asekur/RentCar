@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#ff6e40",
+          "marker-size": "large",
+          "marker-symbol": "car"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.594968676567078,
+            53.91194446795263
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#ff6e40",
+          "marker-size": "large",
+          "marker-symbol": "car"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.596218585968018,
+            53.91676287260983
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#ff6e40",
+          "marker-size": "large",
+          "marker-symbol": "car"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.592517137527466,
+            53.91778967386508
+          ]
+        }
+      }
+    ]
+  }
